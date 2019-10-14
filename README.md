@@ -1,2 +1,2 @@
 # Brain-Computer-Interface
-Members: Rishabh Dhenkawat, Akshat Raj Vansh, Swayam Kaul, Uttkarsh Chaurasia , Saknd V  Gupta
+Members: Rishabh Dhenkawat, Akshat Raj Vansh, Swayam Kaul, Uttkarsh Chaurasia , Skand V Gupta
